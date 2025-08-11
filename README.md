@@ -39,7 +39,7 @@ BusinessVision/
 2. Open `index.html` in any modern web browser.
 
 ---
-🔗 **Live Demo:** [Click here to view](visionbusiness.netlify.app/#home)
+🔗 **Live Demo:** [Click here to view](https://visionbusiness.netlify.app/#home)
 
 
 <img width="1920" height="1080" alt="Screenshot (747)" src="https://github.com/user-attachments/assets/c4c511cb-fc66-4bbb-a753-8130ba8f76f9" />
