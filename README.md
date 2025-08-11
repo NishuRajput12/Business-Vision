@@ -6,7 +6,8 @@ A responsive and modern business landing page built with HTML, CSS, and JavaScri
 
 ## 📸 Preview
 
-![Business Vision Preview](![Uploading image.png…]()
+![Business Vision Preview](![Uploading Screenshot (747).png…]()
+)
 ) 
 
 ---
