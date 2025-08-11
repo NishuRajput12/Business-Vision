@@ -4,13 +4,7 @@ A responsive and modern business landing page built with HTML, CSS, and JavaScri
 
 ---
 
-## 📸 Preview
 
-![Business Vision Preview](![Uploading Screenshot (747).png…]()
-)
-) 
-
----
 
 ## 🚀 Features
 
@@ -47,4 +41,7 @@ BusinessVision/
 ---
 🔗 **Live Demo:** [Click here to view](visionbusiness.netlify.app/#home)
 
+
+<img width="1920" height="1080" alt="Screenshot (747)" src="https://github.com/user-attachments/assets/c4c511cb-fc66-4bbb-a753-8130ba8f76f9" />
+<img width="1920" height="1080" alt="Screenshot (746)" src="https://github.com/user-attachments/assets/350f83a3-e1f5-4e7a-a04c-9a53e3f43a9c" />
 
